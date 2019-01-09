@@ -4,7 +4,7 @@ A gardening app illustrating Android development best practices with Android Jet
 
 This project uses the Gradle build system. To build this project, use the gradlew build command or use "Import Project" in Android Studio.
 
-Libraries Used :
+### Libraries Used :
 
 - Foundation - Components for core system capabilities, Kotlin extensions and support for multidex and automated testing.
 
@@ -37,7 +37,7 @@ Libraries Used :
 - Fragment - A basic unit of composable UI.
 - Layout - Lay out widgets using different algorithms.
 
-Third party :
+### Third party :
 
 - Glide for image loading
 
